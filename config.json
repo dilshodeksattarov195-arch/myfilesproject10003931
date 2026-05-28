@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartpalidate",
+        "uuid": 28259959,
+        "checksum": "gswzaj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
